@@ -1,4 +1,4 @@
-# Mostafa Rady
+# Hi there! 👋 I'm Mostafa Rady
 
 **Senior Software Engineer | Java | Backend | Microservices | Digital Transformation | FinTech**  
 Dubai, United Arab Emirates
